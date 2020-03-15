@@ -10,7 +10,7 @@ Using the Fastai library to build a carpark image classifer and deploy to some a
 
 ## User Interface
 
-![Voila screenshot](images/Screenshot from 2020-03-15 17-01-07.png)
+![alt text](images/Screenshot from 2020-03-15 17-01-07.png 'Voila Screenshot')
 
 ## TFL Webcams
 
